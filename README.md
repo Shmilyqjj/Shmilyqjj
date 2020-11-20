@@ -2,9 +2,8 @@
 
 ### 欢迎光临我的github  👋
 
-- 🌱 I AM A Vegetable Chicken Code Monkey
-- 👯 My homepage:https://shmily-qjj.top/  (Lite Version:http://tech.shmily-qjj.top/)
+- 🌱 A Vegetable Chicken Code Monkey
+- 👯 My homepage:**[佳境的小本本](https://shmily-qjj.top/)** **[佳境的技术专区](http://tech.shmily-qjj.top/)**
 - 🤔 Keep learning and keep enthusiasm
 - 💬 你自以为的极限，只是别人的起点
 - 📫 Email: qjj710552907@gmail.com
-- 😄 无论何时，保持开心，希望你也开心
